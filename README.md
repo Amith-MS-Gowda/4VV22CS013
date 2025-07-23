@@ -75,9 +75,14 @@ npm start
 
 ## 📸 Screenshots
 
-### Main URL Shortener Page
+### 🔗 URL Shortener Input Page  
+![Shorten URL Page](assets/shorten-url.png)
 
-![Main Page](https://i.imgur.com/k2jNq1B.png)
+### 📊 Shortened URL List View  
+![Statistics List View](assets/statistics-list.png)
+
+### 📍 Detailed Analytics View  
+![Statistics Detail View](assets/statistics-detail.png)
 
 
 ---
