@@ -42,7 +42,7 @@ cd backend
 # Install dependencies
 npm install
 
-# Replace "your_access_token_here" with your token in:
+# Replace "your_access_token" with your token in:
 # backend/logger.js
 
 # Start the backend server
@@ -62,7 +62,7 @@ cd frontend
 # Install dependencies
 npm install
 
-# Replace "your_access_token_here" with your token in:
+# Replace "your_access_token" with your token in:
 # frontend/src/utils/logger.js
 
 # Start the frontend application
